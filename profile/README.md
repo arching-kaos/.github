@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+and welcome to Arching Kaos' repositories.
+
+### Brief description
+
+It's about creating solutions based on decentralization and more. You can read more about it by visiting [this link](https://github.com/arching-kaos/arching-kaos-infochain/blob/master/docs/Whitepaper). Parts in overall documentation are maybe missing or not working exactly as they are said to be done. Updates on documentation is the slowest procedure of all.
+
+### Active projects
+
+- A website that can load it's data from various contributors. [arching-kaos.net](https://arching-kaos.net)
+- Tools to contribute and manage your chain. [arching-kaos-tools](https://github.com/arching-kaos/arching-kaos-tools)
+
+### Roadmap?
+
+A bunch of them you can find organized in the [arching-kaos-roadmap](https://github.com/arching-kaos/arching-kaos-roadmap).
+
 <!--
 
 **Here are some ideas to get you started:**

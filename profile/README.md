@@ -4,7 +4,7 @@ and welcome to Arching Kaos' repositories.
 
 ### Brief description
 
-It's about creating solutions based on decentralization/distribution of both data and algorithms. You can read more about it by visiting [this link](https://github.com/arching-kaos/arching-kaos-infochain/blob/master/docs/Whitepaper). Parts in overall documentation are maybe missing or not working exactly as they are said to be done. Updates on documentation is the slowest procedure of all.
+It's about creating solutions based on decentralization/distribution of both data and algorithms. You can read more about it by visiting [this link](https://github.com/arching-kaos/arching-kaos-infochain/blob/master/docs/Whitepaper) (it's a bit old and the project doesn't rely much in the hash splitting right now, it will be updated soon [2024]). Parts in overall documentation are maybe missing or not working exactly as they are said to be done. Updates on documentation is the slowest procedure of all.
 
 ### Active projects
 
